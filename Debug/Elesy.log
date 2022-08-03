@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\MVS_project\Job\Elesy\main.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\MVS_project\Job\Elesy\main.cpp(66,32): warning C4018: '<': signed/unsigned mismatch
+D:\MVS_project\Job\Elesy\main.cpp(70,47): warning C4018: '<': signed/unsigned mismatch
+  Elesy.vcxproj -> D:\MVS_project\Job\Elesy\Debug\Elesy.exe
